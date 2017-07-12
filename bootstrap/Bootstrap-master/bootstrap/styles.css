@@ -12,4 +12,10 @@ body {
 
 .featuredImg {
 	margin-bottom: 15px;
+	width: 800px;
 }
+
+.FeaturedImg {
+	width: 570px;
+}
+
